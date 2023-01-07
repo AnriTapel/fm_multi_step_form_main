@@ -1,0 +1,24 @@
+.controls-container input {
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.controls-container input:hover {
+    transform: scale(1.1);
+}
+
+.back-btn {
+    float: left;
+    color: hsl(231, 11%, 63%);
+    background-color: transparent;
+}
+
+.next-btn {
+    float: right;
+    background-color: hsl(213, 96%, 18%);
+    color: hsl(229, 24%, 87%);
+}

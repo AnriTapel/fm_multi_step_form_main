@@ -1,0 +1,8 @@
+.add-ons-block {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.add-ons-block > div {
+    margin-bottom: 10px;
+}
